@@ -1,1 +1,1 @@
-NotebookLM-py==0.3.4
+NotebookLM-py[browser]==0.3.4
